@@ -12,6 +12,7 @@
         "init": "lerna bootstrap"
     },
     "publishConfig": {
+        "registry": "https://npm.pkg.github.com",
         "access": "public"
     },
     "devDependencies": {

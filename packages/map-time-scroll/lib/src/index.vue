@@ -2,6 +2,7 @@
     <div>
         <div>{{ text }}</div>
         <el-button>123</el-button>
+        <div> 1234 </div>
     </div>
     
 </template>
