@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org",
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "dependencies": {
