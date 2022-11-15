@@ -1,6 +1,6 @@
 {
   "name": "@gs/theme-chalk",
-  "version": "1.0.0",
+  "private": true,
   "description": "pulic css",
   "author": "liqian <top_liqian@163.com>",
   "homepage": "",

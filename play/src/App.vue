@@ -1,6 +1,5 @@
-<template lang="pug">
-  div
-    div(class="text) this is app
+<template>
+  <GSMapTimeScroll></GSMapTimeScroll>
 </template>
 
 

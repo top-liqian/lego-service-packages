@@ -8,7 +8,8 @@
     "scripts": {
         "lint:init": "eslint --init",
         "lint": "eslint ./ --fix",
-        "play-dev": "lerna exec --scope=@gs/play -- npm run dev"
+        "play-dev": "lerna exec --scope=@gs/play -- npm run dev",
+        "init": "lerna bootstrap"
     },
     "publishConfig": {
         "access": "public"

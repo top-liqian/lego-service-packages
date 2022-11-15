@@ -21,6 +21,6 @@
     "test": "node ./__tests__/@gs/map-time-scroll.test.js"
   },
   "dependencies": {
-    "@gs/theme-chalk": "^1.0.0"
+    "@gs/utils": "^1.0.0"
   }
 }
