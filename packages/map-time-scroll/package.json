@@ -1,6 +1,6 @@
 {
   "name": "@gs/map-time-scroll",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this is for map time select",
   "author": "liqian <top_liqian@163.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "node ./__tests__/@gs/map-time-scroll.test.js"
   },
   "dependencies": {
-    "@gs/utils": "^1.0.2"
+    "@gs/utils": "^1.0.3"
   },
   "gitHead": "af5e312c77f040410fdaa02c94cb8d5b752f0a5c"
 }
