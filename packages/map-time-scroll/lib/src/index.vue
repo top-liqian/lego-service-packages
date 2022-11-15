@@ -13,7 +13,7 @@ export default {
     name: 'GSMapTimeScroll',
     data() {
         return {
-            text: ''
+            text: '123'
         }
     },
     mounted() {
